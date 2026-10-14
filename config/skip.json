@@ -1,0 +1,9 @@
+{
+  "_comment": "Characters trivial enough that linear catch-up should not spend a row on them. Hardcoded on purpose — NOT derived from Anki card maturity, because a mature card means you recognise a word, not that you can write it. The bar is 'I write this so often it is automatic', not 'this has few strokes'. An explicit `xiehanzi add` ignores this list; it only filters automatic selection. Edit freely.",
+  "characters": [
+    "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "两",
+    "人", "大", "小", "上", "下", "中",
+    "口", "日", "月", "山", "水", "火", "木", "天", "子",
+    "了", "不", "力", "工", "个"
+  ]
+}

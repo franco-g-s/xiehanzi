@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Generated sheets
+out/
+
+# Anki read-only snapshot (fallback path only — never a write target)
+.anki-snapshot/
+
+# Secrets — Supernote Cloud credentials live here
+.env
+.env.local
+
+# Tooling / OS
+.DS_Store
+
+# Supernote Cloud session token
+.supernote-session.json
+
+# Per-day hold on morning generation (see bin/morning.sh)
+.skip-*
+
+# Scratch output (exported trees, verification results)
+.release/
+
+# Default backupDir of the delivery config (`xiehanzi backup` mirrors the drive here)
+supernote-backup/
+
+# Your learning history: the queue, sheet records and every recall verdict. Anchored, so
+# src/state/ (code) is still tracked. bin/morning.sh and bin/grade.sh commit and push
+# state/ when it is tracked; to sync it through git, delete this line in a PRIVATE copy.
+/state/
+
+# Built locally from your own Anki collection, and not redistributable (see data/README.md).
+/data/anki-glossary.json

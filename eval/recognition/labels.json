@@ -1,0 +1,632 @@
+[
+ {
+  "id": "2026-08-24_p0_r5",
+  "expected": "程",
+  "correct": false
+ },
+ {
+  "id": "2026-08-27_p0_r7",
+  "expected": "负",
+  "correct": true
+ },
+ {
+  "id": "2026-08-28_p0_r1",
+  "expected": "里",
+  "correct": false
+ },
+ {
+  "id": "2026-08-28_p0_r3",
+  "expected": "事",
+  "correct": false
+ },
+ {
+  "id": "2026-08-28_p0_r7",
+  "expected": "学",
+  "correct": false
+ },
+ {
+  "id": "2026-08-28_p0_r8",
+  "expected": "家",
+  "correct": true
+ },
+ {
+  "id": "2026-08-28_p1_r1",
+  "expected": "所",
+  "correct": false
+ },
+ {
+  "id": "2026-08-28_p1_r4",
+  "expected": "用",
+  "correct": true
+ },
+ {
+  "id": "2026-08-28_p1_r5",
+  "expected": "绩",
+  "correct": false
+ },
+ {
+  "id": "2026-08-28_p1_r6",
+  "expected": "行",
+  "correct": true
+ },
+ {
+  "id": "2026-08-28_p1_r7",
+  "expected": "道",
+  "correct": false
+ },
+ {
+  "id": "2026-08-29_p0_r2",
+  "expected": "当",
+  "correct": true
+ },
+ {
+  "id": "2026-08-29_p0_r7",
+  "expected": "看",
+  "correct": true
+ },
+ {
+  "id": "2026-08-29_p1_r0",
+  "expected": "论",
+  "correct": false
+ },
+ {
+  "id": "2026-08-29_p1_r6",
+  "expected": "面",
+  "correct": false
+ },
+ {
+  "id": "2026-08-30_p0_r2",
+  "expected": "会",
+  "correct": true
+ },
+ {
+  "id": "2026-08-30_p0_r3",
+  "expected": "但",
+  "correct": false
+ },
+ {
+  "id": "2026-08-30_p0_r5",
+  "expected": "创",
+  "correct": false
+ },
+ {
+  "id": "2026-08-30_p0_r7",
+  "expected": "前",
+  "correct": false
+ },
+ {
+  "id": "2026-08-30_p0_r9",
+  "expected": "和",
+  "correct": false
+ },
+ {
+  "id": "2026-08-30_p1_r2",
+  "expected": "她",
+  "correct": true
+ },
+ {
+  "id": "2026-08-31_p0_r0",
+  "expected": "样",
+  "correct": true
+ },
+ {
+  "id": "2026-08-31_p0_r5",
+  "expected": "又",
+  "correct": true
+ },
+ {
+  "id": "2026-08-31_p0_r7",
+  "expected": "外",
+  "correct": false
+ },
+ {
+  "id": "2026-08-31_p0_r9",
+  "expected": "实",
+  "correct": false
+ },
+ {
+  "id": "2026-09-01_p0_r3",
+  "expected": "第",
+  "correct": false
+ },
+ {
+  "id": "2026-09-01_p0_r6",
+  "expected": "说",
+  "correct": true
+ },
+ {
+  "id": "2026-09-01_p0_r9",
+  "expected": "长",
+  "correct": false
+ },
+ {
+  "id": "2026-09-02_p0_r0",
+  "expected": "文",
+  "correct": true
+ },
+ {
+  "id": "2026-09-02_p1_r3",
+  "expected": "事",
+  "correct": false
+ },
+ {
+  "id": "2026-09-02_p1_r4",
+  "expected": "传",
+  "correct": false
+ },
+ {
+  "id": "2026-09-03_p0_r9",
+  "expected": "西",
+  "correct": true
+ },
+ {
+  "id": "2026-09-03_p2_r2",
+  "expected": "道",
+  "correct": true
+ },
+ {
+  "id": "2026-09-03_p2_r4",
+  "expected": "里",
+  "correct": false
+ },
+ {
+  "id": "2026-09-03_p2_r5",
+  "expected": "门",
+  "correct": true
+ },
+ {
+  "id": "2026-09-04_p0_r2",
+  "expected": "名",
+  "correct": false
+ },
+ {
+  "id": "2026-09-04_p0_r5",
+  "expected": "播",
+  "correct": false
+ },
+ {
+  "id": "2026-09-04_p0_r8",
+  "expected": "生",
+  "correct": true
+ },
+ {
+  "id": "2026-09-04_p2_r3",
+  "expected": "过",
+  "correct": true
+ },
+ {
+  "id": "2026-09-04_p2_r5",
+  "expected": "进",
+  "correct": true
+ },
+ {
+  "id": "2026-09-05_p2_r1",
+  "expected": "意",
+  "correct": false
+ },
+ {
+  "id": "2026-09-05_p2_r5",
+  "expected": "用",
+  "correct": true
+ },
+ {
+  "id": "2026-09-06_p0_r5",
+  "expected": "女",
+  "correct": true
+ },
+ {
+  "id": "2026-09-06_p2_r4",
+  "expected": "现",
+  "correct": false
+ },
+ {
+  "id": "2026-09-07_p0_r8",
+  "expected": "好",
+  "correct": true
+ },
+ {
+  "id": "2026-09-07_p2_r5",
+  "expected": "议",
+  "correct": false
+ },
+ {
+  "id": "2026-09-08_p2_r9",
+  "expected": "白",
+  "correct": true
+ },
+ {
+  "id": "2026-09-09_p0_r2",
+  "expected": "能",
+  "correct": false
+ },
+ {
+  "id": "2026-09-09_p0_r4",
+  "expected": "规",
+  "correct": false
+ },
+ {
+  "id": "2026-09-09_p0_r6",
+  "expected": "责",
+  "correct": true
+ },
+ {
+  "id": "2026-09-09_p2_r1",
+  "expected": "成",
+  "correct": true
+ },
+ {
+  "id": "2026-09-09_p2_r4",
+  "expected": "方",
+  "correct": true
+ },
+ {
+  "id": "2026-09-09_p2_r6",
+  "expected": "然",
+  "correct": true
+ },
+ {
+  "id": "2026-09-10_p0_r1",
+  "expected": "那",
+  "correct": false
+ },
+ {
+  "id": "2026-09-10_p0_r5",
+  "expected": "但",
+  "correct": true
+ },
+ {
+  "id": "2026-09-10_p0_r6",
+  "expected": "动",
+  "correct": true
+ },
+ {
+  "id": "2026-09-10_p2_r7",
+  "expected": "论",
+  "correct": false
+ },
+ {
+  "id": "2026-09-11_p0_r0",
+  "expected": "都",
+  "correct": true
+ },
+ {
+  "id": "2026-09-11_p0_r5",
+  "expected": "为",
+  "correct": true
+ },
+ {
+  "id": "2026-09-11_p2_r2",
+  "expected": "意",
+  "correct": false
+ },
+ {
+  "id": "2026-09-12_p0_r0",
+  "expected": "觉",
+  "correct": false
+ },
+ {
+  "id": "2026-09-12_p0_r4",
+  "expected": "里",
+  "correct": false
+ },
+ {
+  "id": "2026-09-12_p2_r5",
+  "expected": "国",
+  "correct": true
+ },
+ {
+  "id": "2026-09-13_p0_r2",
+  "expected": "样",
+  "correct": true
+ },
+ {
+  "id": "2026-09-13_p2_r3",
+  "expected": "就",
+  "correct": false
+ },
+ {
+  "id": "2026-09-13_p2_r9",
+  "expected": "点",
+  "correct": true
+ },
+ {
+  "id": "2026-09-14_p0_r0",
+  "expected": "第",
+  "correct": false
+ },
+ {
+  "id": "2026-09-14_p2_r8",
+  "expected": "打",
+  "correct": true
+ },
+ {
+  "id": "2026-09-15_p0_r1",
+  "expected": "步",
+  "correct": false
+ },
+ {
+  "id": "2026-09-15_p0_r8",
+  "expected": "体",
+  "correct": true
+ },
+ {
+  "id": "2026-09-15_p2_r0",
+  "expected": "再",
+  "correct": false
+ },
+ {
+  "id": "2026-09-15_p2_r5",
+  "expected": "应",
+  "correct": true
+ },
+ {
+  "id": "2026-09-16_p0_r10",
+  "expected": "议",
+  "correct": false
+ },
+ {
+  "id": "2026-09-16_p0_r2",
+  "expected": "每",
+  "correct": false
+ },
+ {
+  "id": "2026-09-16_p0_r4",
+  "expected": "级",
+  "correct": true
+ },
+ {
+  "id": "2026-09-16_p0_r7",
+  "expected": "能",
+  "correct": false
+ },
+ {
+  "id": "2026-09-16_p2_r0",
+  "expected": "记",
+  "correct": true
+ },
+ {
+  "id": "2026-09-17_p0_r1",
+  "expected": "回",
+  "correct": true
+ },
+ {
+  "id": "2026-09-17_p0_r6",
+  "expected": "等",
+  "correct": true
+ },
+ {
+  "id": "2026-09-17_p0_r9",
+  "expected": "论",
+  "correct": false
+ },
+ {
+  "id": "2026-09-17_p2_r4",
+  "expected": "然",
+  "correct": true
+ },
+ {
+  "id": "2026-09-17_p2_r5",
+  "expected": "生",
+  "correct": true
+ },
+ {
+  "id": "2026-09-17_p2_r6",
+  "expected": "系",
+  "correct": true
+ },
+ {
+  "id": "2026-09-18_p2_r0",
+  "expected": "备",
+  "correct": false
+ },
+ {
+  "id": "2026-09-18_p2_r2",
+  "expected": "字",
+  "correct": true
+ },
+ {
+  "id": "2026-09-20_p0_r6",
+  "expected": "真",
+  "correct": true
+ },
+ {
+  "id": "2026-09-20_p2_r1",
+  "expected": "还",
+  "correct": true
+ },
+ {
+  "id": "2026-09-20_p2_r5",
+  "expected": "免",
+  "correct": true
+ },
+ {
+  "id": "2026-09-22_p0_r2",
+  "expected": "样",
+  "correct": false
+ },
+ {
+  "id": "2026-09-22_p0_r4",
+  "expected": "步",
+  "correct": true
+ },
+ {
+  "id": "2026-09-22_p0_r5",
+  "expected": "点",
+  "correct": true
+ },
+ {
+  "id": "2026-09-22_p2_r1",
+  "expected": "医",
+  "correct": false
+ },
+ {
+  "id": "2026-09-22_p2_r7",
+  "expected": "手",
+  "correct": true
+ },
+ {
+  "id": "2026-09-22_p2_r9",
+  "expected": "放",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p0_r10",
+  "expected": "飞",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p0_r3",
+  "expected": "正",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p0_r7",
+  "expected": "笑",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p0_r8",
+  "expected": "视",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p0_r9",
+  "expected": "这",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p2_r2",
+  "expected": "半",
+  "correct": true
+ },
+ {
+  "id": "2026-09-23_p2_r5",
+  "expected": "干",
+  "correct": true
+ },
+ {
+  "id": "2026-09-24_p0_r4",
+  "expected": "绩",
+  "correct": true
+ },
+ {
+  "id": "2026-09-24_p0_r6",
+  "expected": "能",
+  "correct": true
+ },
+ {
+  "id": "2026-09-25_p2_r2",
+  "expected": "见",
+  "correct": true
+ },
+ {
+  "id": "2026-09-25_p2_r7",
+  "expected": "东",
+  "correct": true
+ },
+ {
+  "id": "2026-09-26_p0_r2",
+  "expected": "后",
+  "correct": true
+ },
+ {
+  "id": "2026-09-26_p0_r3",
+  "expected": "果",
+  "correct": false
+ },
+ {
+  "id": "2026-09-26_p2_r1",
+  "expected": "记",
+  "correct": true
+ },
+ {
+  "id": "2026-09-28_p0_r5",
+  "expected": "编",
+  "correct": false
+ },
+ {
+  "id": "2026-09-28_p0_r7",
+  "expected": "论",
+  "correct": false
+ },
+ {
+  "id": "2026-09-28_p2_r1",
+  "expected": "里",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p0_r0",
+  "expected": "备",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p0_r1",
+  "expected": "她",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p0_r10",
+  "expected": "比",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p0_r2",
+  "expected": "字",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p0_r4",
+  "expected": "就",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p0_r5",
+  "expected": "师",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p0_r8",
+  "expected": "持",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p2_r10",
+  "expected": "错",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p2_r2",
+  "expected": "病",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p2_r3",
+  "expected": "百",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p2_r4",
+  "expected": "真",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p2_r5",
+  "expected": "知",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p2_r6",
+  "expected": "程",
+  "correct": true
+ },
+ {
+  "id": "2026-09-29_p2_r7",
+  "expected": "续",
+  "correct": false
+ },
+ {
+  "id": "2026-09-29_p2_r9",
+  "expected": "还",
+  "correct": true
+ }
+]

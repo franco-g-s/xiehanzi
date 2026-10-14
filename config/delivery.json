@@ -1,0 +1,6 @@
+{
+  "_comment": "deliverDir is where generated sheets are written locally (XIEHANZI_DELIVER_DIR overrides it per machine — point it at a folder your Supernote syncs, or leave it and let `push` upload). remoteDir is the Supernote Cloud folder sheets are pushed to and graded from. backupDir is where `xiehanzi backup` mirrors the whole drive; it is never pruned. Relative paths are resolved from the directory you run the CLI in. Credentials live in .env and the session token from `xiehanzi login` in .supernote-session.json — both gitignored, neither stored here.",
+  "deliverDir": "./out",
+  "remoteDir": "Note/中文/写汉字",
+  "backupDir": "./supernote-backup"
+}

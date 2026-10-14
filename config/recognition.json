@@ -1,0 +1,8 @@
+{
+  "_comment": "Recall grading recognisers. Google reads the strokes; a Google pass more than maxStrokeDelta strokes off the reference is a fail. partnerMode says when the OpenCode Go vision model is asked: off (never; Google and the stroke gate are the whole pipeline), ambiguous (only for a Google pass exactly one stroke off), always (every pass, as before 2026-10-01). It is off because on Franco's real history it failed more correct characters than it caught wrong ones (see the spec). partner keeps the model, so turning it back on is one line: grok-4.6 won the 2026-09-30 benchmark (see docs/superpowers/specs/2026-10-01-stroke-recognition-grading-design.md). api must match the model's Go endpoint: responses for grok/gpt, messages for qwen/minimax, chat for the rest. Re-score a candidate with `npm run eval:recognition` before switching. confusionFrom is the first date the confusion rule applies.",
+  "partner": { "model": "grok-4.6", "api": "responses", "timeoutMs": 45000, "retries": 1 },
+  "google": { "timeoutMs": 10000, "retries": 1 },
+  "confusionFrom": "2026-10-01",
+  "maxStrokeDelta": 1,
+  "partnerMode": "off"
+}
